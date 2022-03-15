@@ -1,4 +1,4 @@
-CKEditor Расширение для Yii 2
+CKEditor Расширение для Yii 2 ( Добавлен плагин base64image ) Автор расширения MihailDev
 ===========================
 
 CKEditor — свободный WYSIWYG-редактор, который может быть использован на веб-страницах.
@@ -11,13 +11,13 @@ CKEditor — свободный WYSIWYG-редактор, который мож�
 Либо запустить
 
 ```
-php composer.phar require --prefer-dist mihaildev/yii2-ckeditor "*"
+php composer.phar require --prefer-dist leparkour/yii2-ckeditor "*"
 ```
 
 или добавить
 
 ```json
-"mihaildev/yii2-ckeditor": "*"
+"leparkour/yii2-ckeditor": "*"
 ```
 
 в разделе `require` вашего composer.json файла.
