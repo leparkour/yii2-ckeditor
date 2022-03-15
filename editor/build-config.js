@@ -48,6 +48,7 @@ var CKBUILDER_CONFIG = {
 		'tests'
 	],
 	plugins : {
+		'base64image' : 1,
 		'a11yhelp' : 1,
 		'about' : 1,
 		'basicstyles' : 1,
