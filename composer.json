@@ -2,7 +2,7 @@
     "name": "mihaildev/yii2-ckeditor",
     "keywords": ["yii", "wysiwyg", "editor", "CKEditor"],
     "description": "Yii2 CKEditor",
-    "homepage": "https://github.com/leparkour/yii2-ckeditor",
+    "homepage": "https://github.com/MihailDev/yii2-ckeditor",
     "license": "BSD-3-Clause",
     "type": "yii2-extension",
 	"minimum-stability":"stable",
